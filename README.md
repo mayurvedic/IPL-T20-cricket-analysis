@@ -34,5 +34,24 @@ We use **Bright Data** for **real-time player statistics and rankings**.
    ```bash
    pip install brightdata
 
-python scripts/web_scraper.py
+
+**How to Run**
+**Clone the repository:**
+git clone https://github.com/your-username/t20-cricket-analysis.git
+cd t20-cricket-analysis
+Install dependencies:
+
+pip install -r requirements.txt
+Run the Jupyter notebooks or Python scripts:
+
+
+jupyter notebook notebooks/analysis.ipynb
+Open Tableau and load dashboards from the visualizations/ folder.
+
+**🤝 Contributions**
+Contributions are welcome! If you have suggestions for improving the analysis, or if you'd like to add additional features (like more datasets, player comparisons, or new visualizations), feel free to fork the repository and create a pull request.
+
+**📢 License**
+This project is licensed under the MIT License – see the LICENSE file for details.
+
 
