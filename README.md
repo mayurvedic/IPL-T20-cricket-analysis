@@ -37,7 +37,7 @@ We use **Bright Data** for **real-time player statistics and rankings**.
 
 **How to Run**
 **Clone the repository:**
-git clone https://github.com/your-username/t20-cricket-analysis.git
+git clone https://github.com/mayurvedic/IPL-T20-cricket-analysis.git
 cd t20-cricket-analysis
 Install dependencies:
 
